@@ -6,7 +6,6 @@ import de.lukas.donutsauctions.model.AuctionListingRecord
 import de.lukas.donutsauctions.parser.ItemSignatureBuilder
 import de.lukas.donutsauctions.parser.PriceParser
 import net.minecraft.client.MinecraftClient
-import net.minecraft.client.gui.screen.ingame.HandledScreen
 import net.minecraft.item.Item
 import net.minecraft.item.ItemStack
 import net.minecraft.item.Items
@@ -38,12 +37,13 @@ class AhCaptureService(
         capturedPageKeys.clear()
     }
 
-    fun capture(client: MinecraftClient, searchContext: AhSearchContext?): AhCaptureResult {
-        val screen = client.currentScreen as? HandledScreen<*> ?: return AhCaptureResult.Noop("Current screen is not a handled menu")
+    fun capture(client: MinecraftClient, searchContext: AhSearchContext?, forcedTitle: String? = null): AhCaptureResult {
         val player = client.player ?: return AhCaptureResult.Noop("Player unavailable")
         val handler = player.currentScreenHandler ?: return AhCaptureResult.Noop("Screen handler unavailable")
+        val title = forcedTitle?.takeIf { it.isNotBlank() }
+            ?: client.currentScreen?.title?.string
+            ?: return AhCaptureResult.Noop("Capture title unavailable")
 
-        val title = screen.title.string
         val topSlotCount = determineTopSlotCount(handler)
         if (topSlotCount <= 0) {
             return AhCaptureResult.Noop("Top slot count is 0")
@@ -132,6 +132,7 @@ class AhCaptureService(
 
     private fun findControlSlots(topSlots: List<Slot>): Map<Int, String> {
         val mapping = mutableMapOf<Int, String>()
+        val strictNextSlotIndex = AhNextControlLocator.findStrictNextSlotIndex(topSlots)
 
         topSlots.forEach { slot ->
             val stack = slot.stack
@@ -144,7 +145,7 @@ class AhCaptureService(
                 displayName.contains("SEARCH", ignoreCase = true) || type == Items.OAK_SIGN -> "SEARCH"
                 displayName.contains("SORT", ignoreCase = true) || type == Items.CAULDRON -> "SORT"
                 displayName.contains("FILTER", ignoreCase = true) || type == Items.HOPPER -> "FILTER"
-                displayName.contains("NEXT", ignoreCase = true) || type == Items.ARROW -> "NEXT"
+                strictNextSlotIndex != null && slot.index == strictNextSlotIndex -> "NEXT"
                 displayName.contains("AUCTION", ignoreCase = true) && type == Items.ANVIL -> "AUCTION"
                 else -> null
             }
