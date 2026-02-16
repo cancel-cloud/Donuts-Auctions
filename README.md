@@ -48,4 +48,4 @@
 
 ## Data Policy
 - Shulker listings are currently excluded on purpose to avoid distorting per-item analytics.
-- Details: `docs/shulker-policy.md`
+- Details: [here](./docs/shulker-policy.md)
