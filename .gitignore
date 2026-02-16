@@ -1,0 +1,38 @@
+# Gradle / Fabric Loom
+.gradle/
+.kotlin/
+build/
+run/
+out/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs / crash dumps
+logs/
+*.log
+*.log.gz
+hs_err_pid*
+replay_pid*
+
+# Local runtime data
+*.db
+*.db-wal
+*.db-shm
+config/
+
+# Private release/publishing notes
+.private/

@@ -1,0 +1,1011 @@
+=== Formatted NBT Data ===
+Generated: 2026-02-12_08-52-13
+Items with content: 84 / 84
+
+=== Details ===
+Mod Version: 1.5.0
+Minecraft Version: 1.21.10
+
+=== ITEM 1 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":702247527,"3":-499649379,"6":-1014021631,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Chainmail Boots"},"minecraft:damage":3,"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$100"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:".Mythical6142"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 56m 23s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$15",underlined:0b}],text:""}]},count:1,id:"minecraft:chainmail_boots"}
+
+Name: Chainmail Boots
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$100
+Line 1: &fSeller: <color:#00FC88>.Mythical6142
+Line 2: &fTime Left: <color:#00FC88>23h 56m 23s
+Line 3: &7Worth: <color:#00FF00>$15
+
+
+==================================================
+
+=== ITEM 2 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1,"minecraft:checkcdown":1773148582161L,"minecraft:cnofw":4,"minecraft:gownerctid":"14ff88c9-be02-42d5-9473-362d521931b9"},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-125644106,"11":1014243367,"44":1891097334,"6":-168176538,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Map"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$100"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"Theromba"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 59m 39s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$1",underlined:0b}],text:""}],"minecraft:map_id":1623983},count:1,id:"minecraft:filled_map"}
+
+Name: Map
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$100
+Line 1: &fSeller: <color:#00FC88>Theromba
+Line 2: &fTime Left: <color:#00FC88>23h 59m 39s
+Line 3: &7Worth: <color:#00FF00>$1
+
+
+==================================================
+
+=== ITEM 3 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1,"minecraft:checkcdown":1773148582161L,"minecraft:cnofw":4,"minecraft:gownerctid":"14ff88c9-be02-42d5-9473-362d521931b9"},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-125644106,"11":837570132,"44":1891097334,"6":-168176538,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Map"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$100"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"Theromba"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 59m 55s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$1",underlined:0b}],text:""}],"minecraft:map_id":1623983},count:1,id:"minecraft:filled_map"}
+
+Name: Map
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$100
+Line 1: &fSeller: <color:#00FC88>Theromba
+Line 2: &fTime Left: <color:#00FC88>23h 59m 55s
+Line 3: &7Worth: <color:#00FF00>$1
+
+
+==================================================
+
+=== ITEM 4 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":205543338,"6":84101003,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Ladder"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$100"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"ProAphid184600"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 57m 36s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$20",underlined:0b}],text:""}]},count:4,id:"minecraft:ladder"}
+
+Name: Ladder
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$100
+Line 1: &fSeller: <color:#00FC88>ProAphid184600
+Line 2: &fTime Left: <color:#00FC88>23h 57m 36s
+Line 3: &7Worth: <color:#00FF00>$20
+
+
+==================================================
+
+=== ITEM 5 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1,"minecraft:checkcdown":1773148582161L,"minecraft:cnofw":4,"minecraft:gownerctid":"14ff88c9-be02-42d5-9473-362d521931b9"},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-125644106,"11":287988979,"44":1891097334,"6":-168176538,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Map"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$100"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"Theromba"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 58m 51s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$1",underlined:0b}],text:""}],"minecraft:map_id":1623983},count:1,id:"minecraft:filled_map"}
+
+Name: Map
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$100
+Line 1: &fSeller: <color:#00FC88>Theromba
+Line 2: &fTime Left: <color:#00FC88>23h 58m 51s
+Line 3: &7Worth: <color:#00FF00>$1
+
+
+==================================================
+
+=== ITEM 6 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1,"minecraft:checkcdown":1773148582161L,"minecraft:cnofw":4,"minecraft:gownerctid":"14ff88c9-be02-42d5-9473-362d521931b9"},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-125644106,"11":496494104,"44":1891097334,"6":-168176538,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Map"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$100"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"Theromba"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 58m 59s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$1",underlined:0b}],text:""}],"minecraft:map_id":1623983},count:1,id:"minecraft:filled_map"}
+
+Name: Map
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$100
+Line 1: &fSeller: <color:#00FC88>Theromba
+Line 2: &fTime Left: <color:#00FC88>23h 58m 59s
+Line 3: &7Worth: <color:#00FF00>$1
+
+
+==================================================
+
+=== ITEM 7 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1,"minecraft:checkcdown":1773148582161L,"minecraft:cnofw":4,"minecraft:gownerctid":"14ff88c9-be02-42d5-9473-362d521931b9"},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-125644106,"11":1502147921,"44":1891097334,"6":-168176538,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Map"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$100"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"Theromba"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 59m 48s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$2",underlined:0b}],text:""}],"minecraft:map_id":1623983},count:2,id:"minecraft:filled_map"}
+
+Name: Map
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$100
+Line 1: &fSeller: <color:#00FC88>Theromba
+Line 2: &fTime Left: <color:#00FC88>23h 59m 48s
+Line 3: &7Worth: <color:#00FF00>$2
+
+
+==================================================
+
+=== ITEM 8 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":-572638696,"6":129353194,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Iron Nugget"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$200"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"takahodesu"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 40m 57s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$3.59",underlined:0b}],text:""}]},count:6,id:"minecraft:iron_nugget"}
+
+Name: Iron Nugget
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$200
+Line 1: &fSeller: <color:#00FC88>takahodesu
+Line 2: &fTime Left: <color:#00FC88>23h 40m 57s
+Line 3: &7Worth: <color:#00FF00>$3.59
+
+
+==================================================
+
+=== ITEM 9 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":-109092904,"6":1358722087,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Gold Nugget"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$500"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"takahodesu"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 40m 3s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$1.79",underlined:0b}],text:""}]},count:3,id:"minecraft:gold_nugget"}
+
+Name: Gold Nugget
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$500
+Line 1: &fSeller: <color:#00FC88>takahodesu
+Line 2: &fTime Left: <color:#00FC88>23h 40m 3s
+Line 3: &7Worth: <color:#00FF00>$1.79
+
+
+==================================================
+
+=== ITEM 10 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":-1809408916,"6":-1269687521,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Feather"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$900"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"GoTNote"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 38m 20s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$78",underlined:0b}],text:""}]},count:13,id:"minecraft:feather"}
+
+Name: Feather
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$900
+Line 1: &fSeller: <color:#00FC88>GoTNote
+Line 2: &fTime Left: <color:#00FC88>23h 38m 20s
+Line 3: &7Worth: <color:#00FF00>$78
+
+
+==================================================
+
+=== ITEM 11 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":1881812827,"6":1585879522,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Lever"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$990"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"einstein_coins"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 59m 24s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:1,id:"minecraft:lever"}
+
+Name: Lever
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$990
+Line 1: &fSeller: <color:#00FC88>einstein_coins
+Line 2: &fTime Left: <color:#00FC88>23h 59m 24s
+Line 3: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 12 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":1424183131,"6":1585879522,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Lever"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$990"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"einstein_coins"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 59m 11s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:1,id:"minecraft:lever"}
+
+Name: Lever
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$990
+Line 1: &fSeller: <color:#00FC88>einstein_coins
+Line 2: &fTime Left: <color:#00FC88>23h 59m 11s
+Line 3: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 13 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":1040621286,"6":1585879522,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Lever"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$990"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"einstein_coins"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 57m 39s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:1,id:"minecraft:lever"}
+
+Name: Lever
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$990
+Line 1: &fSeller: <color:#00FC88>einstein_coins
+Line 2: &fTime Left: <color:#00FC88>23h 57m 39s
+Line 3: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 14 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":-1849921643,"6":1585879522,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Lever"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$990"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"einstein_coins"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 58m 9s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:1,id:"minecraft:lever"}
+
+Name: Lever
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$990
+Line 1: &fSeller: <color:#00FC88>einstein_coins
+Line 2: &fTime Left: <color:#00FC88>23h 58m 9s
+Line 3: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 15 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":-1873906302,"6":1585879522,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Lever"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$990"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"einstein_coins"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 58m 22s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:1,id:"minecraft:lever"}
+
+Name: Lever
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$990
+Line 1: &fSeller: <color:#00FC88>einstein_coins
+Line 2: &fTime Left: <color:#00FC88>23h 58m 22s
+Line 3: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 16 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":1350490032,"6":1585879522,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Lever"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$990"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"einstein_coins"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 58m 12s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:1,id:"minecraft:lever"}
+
+Name: Lever
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$990
+Line 1: &fSeller: <color:#00FC88>einstein_coins
+Line 2: &fTime Left: <color:#00FC88>23h 58m 12s
+Line 3: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 17 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":508025655,"6":1585879522,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Lever"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$990"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"einstein_coins"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 57m 28s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:1,id:"minecraft:lever"}
+
+Name: Lever
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$990
+Line 1: &fSeller: <color:#00FC88>einstein_coins
+Line 2: &fTime Left: <color:#00FC88>23h 57m 28s
+Line 3: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 18 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":-1660824194,"6":1585879522,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Lever"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$990"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"einstein_coins"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 58m 1s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:1,id:"minecraft:lever"}
+
+Name: Lever
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$990
+Line 1: &fSeller: <color:#00FC88>einstein_coins
+Line 2: &fTime Left: <color:#00FC88>23h 58m 1s
+Line 3: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 19 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":2046302028,"6":1585879522,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Lever"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$990"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"einstein_coins"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 58m 4s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:1,id:"minecraft:lever"}
+
+Name: Lever
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$990
+Line 1: &fSeller: <color:#00FC88>einstein_coins
+Line 2: &fTime Left: <color:#00FC88>23h 58m 4s
+Line 3: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 20 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":-1266215550,"6":1585879522,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Lever"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$990"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"einstein_coins"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 58m 17s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:1,id:"minecraft:lever"}
+
+Name: Lever
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$990
+Line 1: &fSeller: <color:#00FC88>einstein_coins
+Line 2: &fTime Left: <color:#00FC88>23h 58m 17s
+Line 3: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 21 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":1439901433,"6":1585879522,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Lever"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$990"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"einstein_coins"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 58m 52s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:1,id:"minecraft:lever"}
+
+Name: Lever
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$990
+Line 1: &fSeller: <color:#00FC88>einstein_coins
+Line 2: &fTime Left: <color:#00FC88>23h 58m 52s
+Line 3: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 22 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":-167533586,"6":1585879522,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Lever"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$990"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"einstein_coins"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 57m 25s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:1,id:"minecraft:lever"}
+
+Name: Lever
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$990
+Line 1: &fSeller: <color:#00FC88>einstein_coins
+Line 2: &fTime Left: <color:#00FC88>23h 57m 25s
+Line 3: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 23 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":1429416514,"6":1585879522,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Lever"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$990"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"einstein_coins"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 58m"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:1,id:"minecraft:lever"}
+
+Name: Lever
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$990
+Line 1: &fSeller: <color:#00FC88>einstein_coins
+Line 2: &fTime Left: <color:#00FC88>23h 58m
+Line 3: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 24 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":-259146767,"6":1585879522,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Lever"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$990"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"einstein_coins"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 58m 11s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:1,id:"minecraft:lever"}
+
+Name: Lever
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$990
+Line 1: &fSeller: <color:#00FC88>einstein_coins
+Line 2: &fTime Left: <color:#00FC88>23h 58m 11s
+Line 3: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 25 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":-1821532972,"6":1585879522,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Lever"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$990"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"einstein_coins"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 57m 56s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:1,id:"minecraft:lever"}
+
+Name: Lever
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$990
+Line 1: &fSeller: <color:#00FC88>einstein_coins
+Line 2: &fTime Left: <color:#00FC88>23h 57m 56s
+Line 3: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 26 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":866054293,"6":1585879522,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Lever"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$990"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"einstein_coins"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 57m 55s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:1,id:"minecraft:lever"}
+
+Name: Lever
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$990
+Line 1: &fSeller: <color:#00FC88>einstein_coins
+Line 2: &fTime Left: <color:#00FC88>23h 57m 55s
+Line 3: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 27 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":909312476,"6":1585879522,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Lever"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$990"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"einstein_coins"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 57m 15s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:1,id:"minecraft:lever"}
+
+Name: Lever
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$990
+Line 1: &fSeller: <color:#00FC88>einstein_coins
+Line 2: &fTime Left: <color:#00FC88>23h 57m 15s
+Line 3: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 28 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":-148473994,"6":1585879522,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Lever"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$990"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"einstein_coins"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 57m 41s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:1,id:"minecraft:lever"}
+
+Name: Lever
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$990
+Line 1: &fSeller: <color:#00FC88>einstein_coins
+Line 2: &fTime Left: <color:#00FC88>23h 57m 41s
+Line 3: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 29 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":-1308029539,"6":1585879522,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Lever"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$990"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"einstein_coins"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 57m 23s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:1,id:"minecraft:lever"}
+
+Name: Lever
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$990
+Line 1: &fSeller: <color:#00FC88>einstein_coins
+Line 2: &fTime Left: <color:#00FC88>23h 57m 23s
+Line 3: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 30 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":1571003648,"6":1585879522,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Lever"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$990"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"einstein_coins"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 58m 3s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:1,id:"minecraft:lever"}
+
+Name: Lever
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$990
+Line 1: &fSeller: <color:#00FC88>einstein_coins
+Line 2: &fTime Left: <color:#00FC88>23h 58m 3s
+Line 3: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 31 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":809127605,"6":1585879522,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Lever"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$990"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"einstein_coins"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 59m 34s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:1,id:"minecraft:lever"}
+
+Name: Lever
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$990
+Line 1: &fSeller: <color:#00FC88>einstein_coins
+Line 2: &fTime Left: <color:#00FC88>23h 59m 34s
+Line 3: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 32 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":-765974110,"6":1585879522,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Lever"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$990"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"einstein_coins"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 57m 22s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:1,id:"minecraft:lever"}
+
+Name: Lever
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$990
+Line 1: &fSeller: <color:#00FC88>einstein_coins
+Line 2: &fTime Left: <color:#00FC88>23h 57m 22s
+Line 3: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 33 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":1357659644,"6":1585879522,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Lever"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$990"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"einstein_coins"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 58m 20s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:1,id:"minecraft:lever"}
+
+Name: Lever
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$990
+Line 1: &fSeller: <color:#00FC88>einstein_coins
+Line 2: &fTime Left: <color:#00FC88>23h 58m 20s
+Line 3: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 34 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":1391067186,"6":1585879522,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Lever"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$990"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"einstein_coins"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 57m 30s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:1,id:"minecraft:lever"}
+
+Name: Lever
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$990
+Line 1: &fSeller: <color:#00FC88>einstein_coins
+Line 2: &fTime Left: <color:#00FC88>23h 57m 30s
+Line 3: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 35 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":2006212326,"6":1585879522,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Lever"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$990"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"einstein_coins"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 57m 53s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:1,id:"minecraft:lever"}
+
+Name: Lever
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$990
+Line 1: &fSeller: <color:#00FC88>einstein_coins
+Line 2: &fTime Left: <color:#00FC88>23h 57m 53s
+Line 3: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 36 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1,"minecraft:checkcdown":1769540917252L,"minecraft:cnofw":3,"minecraft:gownerctid":"1f6675b7-b8d8-4e2e-a3f5-c44b51a6e45e"},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":921096009,"11":438369095,"44":1968058350,"6":-168176538,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Map"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$999"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"Joey10Pack"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 56m 50s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$1",underlined:0b}],text:""}],"minecraft:map_id":2357335},count:1,id:"minecraft:filled_map"}
+
+Name: Map
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$999
+Line 1: &fSeller: <color:#00FC88>Joey10Pack
+Line 2: &fTime Left: <color:#00FC88>23h 56m 50s
+Line 3: &7Worth: <color:#00FF00>$1
+
+
+==================================================
+
+=== ITEM 37 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-731543754,"11":-591101621,"6":1093637875,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Crafting Table"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$999"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"kotatsu0004"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 59m 55s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$8",underlined:0b}],text:""}]},count:1,id:"minecraft:crafting_table"}
+
+Name: Crafting Table
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$999
+Line 1: &fSeller: <color:#00FC88>kotatsu0004
+Line 2: &fTime Left: <color:#00FC88>23h 59m 55s
+Line 3: &7Worth: <color:#00FF00>$8
+
+
+==================================================
+
+=== ITEM 38 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1,"minecraft:checkcdown":1769902567497L,"minecraft:cnofw":3,"minecraft:gownerctid":"d57c8c13-ffda-4dce-8a61-0ed167dcf2e3"},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":1771123935,"11":-703302746,"44":-302306508,"6":-168176538,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Map"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$999"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"Joey10Pack"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 54m 14s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$1",underlined:0b}],text:""}],"minecraft:map_id":2478781},count:1,id:"minecraft:filled_map"}
+
+Name: Map
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$999
+Line 1: &fSeller: <color:#00FC88>Joey10Pack
+Line 2: &fTime Left: <color:#00FC88>23h 54m 14s
+Line 3: &7Worth: <color:#00FF00>$1
+
+
+==================================================
+
+=== ITEM 39 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1,"minecraft:checkcdown":1773148582161L,"minecraft:cnofw":4,"minecraft:gownerctid":"14ff88c9-be02-42d5-9473-362d521931b9"},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-125644106,"11":-1142686044,"44":1891097334,"6":-168176538,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Map"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$999"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"Joey10Pack"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 57m 10s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$1",underlined:0b}],text:""}],"minecraft:map_id":1623983},count:1,id:"minecraft:filled_map"}
+
+Name: Map
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$999
+Line 1: &fSeller: <color:#00FC88>Joey10Pack
+Line 2: &fTime Left: <color:#00FC88>23h 57m 10s
+Line 3: &7Worth: <color:#00FF00>$1
+
+
+==================================================
+
+=== ITEM 40 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1,"minecraft:checkcdown":1773148582161L,"minecraft:cnofw":4,"minecraft:gownerctid":"14ff88c9-be02-42d5-9473-362d521931b9"},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-125644106,"11":2077449366,"44":1891097334,"6":-168176538,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Map"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$999"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"Joey10Pack"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 57m 20s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$1",underlined:0b}],text:""}],"minecraft:map_id":1623983},count:1,id:"minecraft:filled_map"}
+
+Name: Map
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$999
+Line 1: &fSeller: <color:#00FC88>Joey10Pack
+Line 2: &fTime Left: <color:#00FC88>23h 57m 20s
+Line 3: &7Worth: <color:#00FF00>$1
+
+
+==================================================
+
+=== ITEM 41 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1,"minecraft:checkcdown":1769902567497L,"minecraft:cnofw":3,"minecraft:gownerctid":"d57c8c13-ffda-4dce-8a61-0ed167dcf2e3"},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":1771123935,"11":1006500406,"44":-302306508,"6":-168176538,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Map"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$999"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"Joey10Pack"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 54m 59s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$1",underlined:0b}],text:""}],"minecraft:map_id":2478781},count:1,id:"minecraft:filled_map"}
+
+Name: Map
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$999
+Line 1: &fSeller: <color:#00FC88>Joey10Pack
+Line 2: &fTime Left: <color:#00FC88>23h 54m 59s
+Line 3: &7Worth: <color:#00FF00>$1
+
+
+==================================================
+
+=== ITEM 42 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1,"minecraft:checkcdown":1769540917252L,"minecraft:cnofw":3,"minecraft:gownerctid":"1f6675b7-b8d8-4e2e-a3f5-c44b51a6e45e"},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":921096009,"11":1513134761,"44":1968058350,"6":-168176538,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Map"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$999"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"Joey10Pack"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 56m 40s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$1",underlined:0b}],text:""}],"minecraft:map_id":2357335},count:1,id:"minecraft:filled_map"}
+
+Name: Map
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$999
+Line 1: &fSeller: <color:#00FC88>Joey10Pack
+Line 2: &fTime Left: <color:#00FC88>23h 56m 40s
+Line 3: &7Worth: <color:#00FF00>$1
+
+
+==================================================
+
+=== ITEM 43 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1,"minecraft:checkcdown":1773148582161L,"minecraft:cnofw":4,"minecraft:gownerctid":"14ff88c9-be02-42d5-9473-362d521931b9"},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-125644106,"11":-1933148984,"44":1891097334,"6":-168176538,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Map"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$999"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"Joey10Pack"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 57m 3s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$1",underlined:0b}],text:""}],"minecraft:map_id":1623983},count:1,id:"minecraft:filled_map"}
+
+Name: Map
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$999
+Line 1: &fSeller: <color:#00FC88>Joey10Pack
+Line 2: &fTime Left: <color:#00FC88>23h 57m 3s
+Line 3: &7Worth: <color:#00FF00>$1
+
+
+==================================================
+
+=== ITEM 44 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1,"minecraft:checkcdown":1773148582161L,"minecraft:cnofw":4,"minecraft:gownerctid":"14ff88c9-be02-42d5-9473-362d521931b9"},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":-125644106,"11":-618647337,"44":1891097334,"6":-168176538,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Map"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$999"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"Joey10Pack"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 57m 23s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$1",underlined:0b}],text:""}],"minecraft:map_id":1623983},count:1,id:"minecraft:filled_map"}
+
+Name: Map
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$999
+Line 1: &fSeller: <color:#00FC88>Joey10Pack
+Line 2: &fTime Left: <color:#00FC88>23h 57m 23s
+Line 3: &7Worth: <color:#00FF00>$1
+
+
+==================================================
+
+=== ITEM 45 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1,"minecraft:checkcdown":1769540917252L,"minecraft:cnofw":3,"minecraft:gownerctid":"1f6675b7-b8d8-4e2e-a3f5-c44b51a6e45e"},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":921096009,"11":-201235,"44":1968058350,"6":-168176538,removed:[I;]}},"minecraft:custom_name":{italic:0b,text:"Map"},"minecraft:lore":[{extra:[{color:"white",text:"Price: "},{color:"#00FC88",text:"$999"}],italic:0b,text:""},{extra:[{color:"white",text:"Seller: "},{color:"#00FC88",text:"Joey10Pack"}],italic:0b,text:""},{extra:[{color:"white",text:"Time Left: "},{color:"#00FC88",text:"23h 56m 31s"}],italic:0b,text:""},{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$1",underlined:0b}],text:""}],"minecraft:map_id":2357335},count:1,id:"minecraft:filled_map"}
+
+Name: Map
+
+Lore:
+Line 0: &fPrice: <color:#00FC88>$999
+Line 1: &fSeller: <color:#00FC88>Joey10Pack
+Line 2: &fTime Left: <color:#00FC88>23h 56m 31s
+Line 3: &7Worth: <color:#00FF00>$1
+
+
+==================================================
+
+=== ITEM 46 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1,"minecraft:wi":1770882731229L},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":694592191,"11":-842478407,"6":-199673214,removed:[I;]}},"minecraft:custom_name":{extra:[{bold:0b,color:"#00FC88",italic:0b,obfuscated:0b,strikethrough:0b,text:"ѕᴏʀᴛ",underlined:0b}],text:""},"minecraft:lore":[{extra:[{bold:0b,color:"white",italic:0b,obfuscated:0b,strikethrough:0b,text:"• Highest Price",underlined:0b}],text:""},{extra:[{bold:0b,color:"#00FC88",italic:0b,obfuscated:0b,strikethrough:0b,text:"• Lowest Price",underlined:0b}],text:""},{extra:[{bold:0b,color:"white",italic:0b,obfuscated:0b,strikethrough:0b,text:"• Last Listed",underlined:0b}],text:""},{extra:[{bold:0b,color:"white",italic:0b,obfuscated:0b,strikethrough:0b,text:"• Recently Listed",underlined:0b}],text:""}]},count:1,id:"minecraft:cauldron"}
+
+Name: <color:#00FC88>ѕᴏʀᴛ
+
+Lore:
+Line 0: &f• Highest Price
+Line 1: <color:#00FC88>• Lowest Price
+Line 2: &f• Last Listed
+Line 3: &f• Recently Listed
+
+
+==================================================
+
+=== ITEM 47 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1,"minecraft:wi":1770882731229L},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":694592191,"11":1839543604,"6":-1424266857,removed:[I;]}},"minecraft:custom_name":{extra:[{bold:0b,color:"#00FC88",italic:0b,obfuscated:0b,strikethrough:0b,text:"ꜰɪʟᴛᴇʀ",underlined:0b}],text:""},"minecraft:lore":[{extra:[{bold:0b,color:"#00FC88",italic:0b,obfuscated:0b,strikethrough:0b,text:"• All",underlined:0b}],text:""},{extra:[{bold:0b,color:"white",italic:0b,obfuscated:0b,strikethrough:0b,text:"• Blocks",underlined:0b}],text:""},{extra:[{bold:0b,color:"white",italic:0b,obfuscated:0b,strikethrough:0b,text:"• Tools",underlined:0b}],text:""},{extra:[{bold:0b,color:"white",italic:0b,obfuscated:0b,strikethrough:0b,text:"• Food",underlined:0b}],text:""},{extra:[{bold:0b,color:"white",italic:0b,obfuscated:0b,strikethrough:0b,text:"• Combat",underlined:0b}],text:""},{extra:[{bold:0b,color:"white",italic:0b,obfuscated:0b,strikethrough:0b,text:"• Potions",underlined:0b}],text:""},{extra:[{bold:0b,color:"white",italic:0b,obfuscated:0b,strikethrough:0b,text:"• Books",underlined:0b}],text:""},{extra:[{bold:0b,color:"white",italic:0b,obfuscated:0b,strikethrough:0b,text:"• Ingredients",underlined:0b}],text:""},{extra:[{bold:0b,color:"white",italic:0b,obfuscated:0b,strikethrough:0b,text:"• Utilities",underlined:0b}],text:""}]},count:1,id:"minecraft:hopper"}
+
+Name: <color:#00FC88>ꜰɪʟᴛᴇʀ
+
+Lore:
+Line 0: <color:#00FC88>• All
+Line 1: &f• Blocks
+Line 2: &f• Tools
+Line 3: &f• Food
+Line 4: &f• Combat
+Line 5: &f• Potions
+Line 6: &f• Books
+Line 7: &f• Ingredients
+Line 8: &f• Utilities
+
+
+==================================================
+
+=== ITEM 48 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1,"minecraft:wi":1770882731229L},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":694592191,"11":948789833,"6":-2103871899,removed:[I;]}},"minecraft:custom_name":{extra:[{bold:0b,color:"#00FC88",italic:0b,obfuscated:0b,strikethrough:0b,text:"ᴀᴜᴄᴛɪᴏɴ",underlined:0b}],text:""},"minecraft:lore":[{extra:[{bold:0b,color:"white",italic:0b,obfuscated:0b,strikethrough:0b,text:"Click to refresh",underlined:0b}],text:""}]},count:1,id:"minecraft:anvil"}
+
+Name: <color:#00FC88>ᴀᴜᴄᴛɪᴏɴ
+
+Lore:
+Line 0: &fClick to refresh
+
+
+==================================================
+
+=== ITEM 49 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1,"minecraft:wi":1770882731229L},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":694592191,"11":-1601758112,"6":727692579,removed:[I;]}},"minecraft:custom_name":{extra:[{bold:0b,color:"#00FC88",italic:0b,obfuscated:0b,strikethrough:0b,text:"ѕᴇᴀʀᴄʜ",underlined:0b}],text:""},"minecraft:lore":[{extra:[{bold:0b,color:"white",italic:0b,obfuscated:0b,strikethrough:0b,text:"Click to search",underlined:0b}],text:""}]},count:1,id:"minecraft:oak_sign"}
+
+Name: <color:#00FC88>ѕᴇᴀʀᴄʜ
+
+Lore:
+Line 0: &fClick to search
+
+
+==================================================
+
+=== ITEM 50 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1,"minecraft:wi":1770882731229L},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":694592191,"11":116625645,"6":1589825945,removed:[I;]}},"minecraft:custom_name":{extra:[{bold:0b,color:"#00FC88",italic:0b,obfuscated:0b,strikethrough:0b,text:"ʏᴏᴜʀ ɪᴛᴇᴍѕ",underlined:0b}],text:""},"minecraft:lore":[{extra:[{bold:0b,color:"white",italic:0b,obfuscated:0b,strikethrough:0b,text:"Click to view the items you have listed",underlined:0b}],text:""}]},count:1,id:"minecraft:chest"}
+
+Name: <color:#00FC88>ʏᴏᴜʀ ɪᴛᴇᴍѕ
+
+Lore:
+Line 0: &fClick to view the items you have listed
+
+
+==================================================
+
+=== ITEM 51 ===
+Raw NBT: {components:{"minecraft:custom_data":{PublicBukkitValues:{"minecraft:auctionsecurity":1,"minecraft:wi":1770882731229L},"VB|Protocol1_21_11To1_21_9|original_hashes":{"0":694592191,"11":-1355138961,"6":964569968,removed:[I;]}},"minecraft:custom_name":{extra:[{bold:0b,color:"#00FC88",italic:0b,obfuscated:0b,strikethrough:0b,text:"ɴᴇхᴛ",underlined:0b}],text:""},"minecraft:lore":[{extra:[{bold:0b,color:"white",italic:0b,obfuscated:0b,strikethrough:0b,text:"Click to go to the next page",underlined:0b}],text:""}]},count:1,id:"minecraft:arrow"}
+
+Name: <color:#00FC88>ɴᴇхᴛ
+
+Lore:
+Line 0: &fClick to go to the next page
+
+
+==================================================
+
+=== ITEM 52 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":-1651917934,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$8",underlined:0b}],text:""}]},count:1,id:"minecraft:crafting_table"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$8
+
+
+==================================================
+
+=== ITEM 53 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":899061437,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$80",underlined:0b}],text:""}]},count:5,id:"minecraft:oak_log"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$80
+
+
+==================================================
+
+=== ITEM 54 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":-1820350391,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:2,id:"minecraft:stick"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 55 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":-1820350391,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4",underlined:0b}],text:""}]},count:4,id:"minecraft:gunpowder"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$4
+
+
+==================================================
+
+=== ITEM 56 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":1887803981,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$32",underlined:0b}],text:""}]},count:8,id:"minecraft:granite"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$32
+
+
+==================================================
+
+=== ITEM 57 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":93069076,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$76",underlined:0b}],text:""}]},count:19,id:"minecraft:andesite"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$76
+
+
+==================================================
+
+=== ITEM 58 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":-923311207,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$10",underlined:0b}],text:""}]},count:1,id:"minecraft:shield"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$10
+
+
+==================================================
+
+=== ITEM 59 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":-1719287348,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$64",underlined:0b}],text:""}]},count:4,id:"minecraft:furnace"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$64
+
+
+==================================================
+
+=== ITEM 60 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":899061437,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$80",underlined:0b}],text:""}]},count:5,id:"minecraft:birch_log"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$80
+
+
+==================================================
+
+=== ITEM 61 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":1222090821,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$12",underlined:0b}],text:""}]},count:2,id:"minecraft:dripstone_block"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$12
+
+
+==================================================
+
+=== ITEM 62 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":-1145817011,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$136",underlined:0b}],text:""}]},count:34,id:"minecraft:rail"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$136
+
+
+==================================================
+
+=== ITEM 63 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":1570374784,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$7.19",underlined:0b}],text:""}]},count:6,id:"minecraft:arrow"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$7.19
+
+
+==================================================
+
+=== ITEM 64 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":1397688955,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$7",underlined:0b}],text:""}]},count:7,id:"minecraft:bone"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$7
+
+
+==================================================
+
+=== ITEM 65 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":571480028,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$120",underlined:0b}],text:""}]},count:40,id:"minecraft:cobblestone"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$120
+
+
+==================================================
+
+=== ITEM 66 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":-327665054,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$198",underlined:0b}],text:""}]},count:11,id:"minecraft:chorus_fruit"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$198
+
+
+==================================================
+
+=== ITEM 67 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":-747648601,"3":384870121,removed:[I;]},"VV|custom_data":1b},"minecraft:damage":134,"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$5",underlined:0b}],text:""}]},count:1,id:"minecraft:iron_pickaxe"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$5
+
+
+==================================================
+
+=== ITEM 68 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":-1965017963,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$1.34K",underlined:0b}],text:""}]},count:28,id:"minecraft:raw_iron"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$1.34K
+
+
+==================================================
+
+=== ITEM 69 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":-1145817011,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$136",underlined:0b}],text:""}]},count:34,id:"minecraft:cobbled_deepslate"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$136
+
+
+==================================================
+
+=== ITEM 70 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":-1825476214,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$480",underlined:0b}],text:""}]},count:10,id:"minecraft:raw_gold"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$480
+
+
+==================================================
+
+=== ITEM 71 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":-715821204,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$412.8",underlined:0b}],text:""}]},count:43,id:"minecraft:lapis_lazuli"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$412.8
+
+
+==================================================
+
+=== ITEM 72 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":1523139277,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$3K",underlined:0b}],text:""}]},count:50,id:"minecraft:redstone"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$3K
+
+
+==================================================
+
+=== ITEM 73 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":809199604,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$84",underlined:0b}],text:""}]},count:21,id:"minecraft:tuff"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$84
+
+
+==================================================
+
+=== ITEM 74 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":-507012566,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$45",underlined:0b}],text:""}]},count:1,id:"minecraft:chipped_anvil"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$45
+
+
+==================================================
+
+=== ITEM 75 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|added_custom_name":1b,"VB|Protocol1_21_11To1_21_9|id":1299,"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":-1764599552,"3":-919192125,removed:[I;]},"VV|custom_data":1b},"minecraft:custom_name":{color:"white",italic:0b,text:"1.21.11 Iron Spear"},"minecraft:damage":10,"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$0",underlined:0b}],text:""}]},count:1,id:"minecraft:iron_sword"}
+
+Name: &f1.21.11 Iron Spear
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$0
+
+
+==================================================
+
+=== ITEM 76 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":513342925,"13":1231404551,"19":-499649379,"3":-820619310,removed:[I;]},"VV|custom_data":1b},"minecraft:damage":21,"minecraft:enchantments":{"minecraft:sharpness":5,"minecraft:unbreaking":3},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$4.23K",underlined:0b}],text:""}],"minecraft:repair_cost":3},count:1,id:"minecraft:diamond_sword"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$4.23K
+
+
+==================================================
+
+=== ITEM 77 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":764496501,"13":-190990605,"3":1546461005,removed:[I;]},"VV|custom_data":1b},"minecraft:damage":1443,"minecraft:enchantments":{"minecraft:efficiency":4,"minecraft:fortune":3,"minecraft:unbreaking":3},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$8.43K",underlined:0b}],text:""}]},count:1,id:"minecraft:diamond_pickaxe"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$8.43K
+
+
+==================================================
+
+=== ITEM 78 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":-1256666826,"3":-1623871617,removed:[I;]},"VV|custom_data":1b},"minecraft:damage":24,"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$35",underlined:0b}],text:""}]},count:1,id:"minecraft:diamond_axe"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$35
+
+
+==================================================
+
+=== ITEM 79 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":430244368,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$66",underlined:0b}],text:""}]},count:22,id:"minecraft:cobblestone"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$66
+
+
+==================================================
+
+=== ITEM 80 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":-1209742639,"13":182816843,"3":1926655464,removed:[I;]},"VV|custom_data":1b},"minecraft:damage":361,"minecraft:enchantments":{"minecraft:unbreaking":2},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$407",underlined:0b}],text:""}]},count:1,id:"minecraft:bow"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$407
+
+
+==================================================
+
+=== ITEM 81 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":-958998228,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$302.39",underlined:0b}],text:""}]},count:21,id:"minecraft:coal"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$302.39
+
+
+==================================================
+
+=== ITEM 82 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":-1241197577,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$1.63K",underlined:0b}],text:""}]},count:34,id:"minecraft:raw_copper"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$1.63K
+
+
+==================================================
+
+=== ITEM 83 ===
+Raw NBT: {components:{"minecraft:container":[{item:{count:8,id:"minecraft:obsidian"},slot:0},{item:{count:2,id:"minecraft:name_tag"},slot:1},{item:{count:4,id:"minecraft:gunpowder"},slot:3},{item:{count:64,id:"minecraft:raw_iron"},slot:4},{item:{count:12,id:"minecraft:glowstone_dust"},slot:5},{item:{count:4,id:"minecraft:gold_ingot"},slot:6},{item:{count:26,id:"minecraft:diamond"},slot:7},{item:{count:8,id:"minecraft:string"},slot:8},{item:{count:64,id:"minecraft:raw_copper"},slot:9},{item:{count:64,id:"minecraft:raw_copper"},slot:10},{item:{count:4,id:"minecraft:clay_ball"},slot:11},{item:{count:64,id:"minecraft:raw_copper"},slot:12},{item:{count:64,id:"minecraft:raw_copper"},slot:13},{item:{count:64,id:"minecraft:raw_copper"},slot:14},{item:{count:64,id:"minecraft:raw_copper"},slot:15},{item:{count:64,id:"minecraft:raw_copper"},slot:16},{item:{count:64,id:"minecraft:raw_copper"},slot:17},{item:{count:34,id:"minecraft:redstone"},slot:18},{item:{count:64,id:"minecraft:raw_copper"},slot:19},{item:{count:64,id:"minecraft:raw_copper"},slot:20},{item:{count:15,id:"minecraft:raw_iron"},slot:21},{item:{count:64,id:"minecraft:raw_copper"},slot:22},{item:{count:64,id:"minecraft:raw_copper"},slot:23},{item:{count:64,id:"minecraft:raw_copper"},slot:24},{item:{count:3,id:"minecraft:raw_gold"},slot:25},{item:{count:64,id:"minecraft:raw_copper"},slot:26}],"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":-389264946,"73":932520995,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$53.33K",underlined:0b}],text:""}]},count:1,id:"minecraft:shulker_box"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$53.33K
+
+
+==================================================
+
+=== ITEM 84 ===
+Raw NBT: {components:{"minecraft:custom_data":{"VB|Protocol1_21_11To1_21_9|original_hashes":{"11":-257599087,removed:[I;]},"VV|custom_data":1b},"minecraft:lore":[{extra:[{color:"gray",italic:0b,text:"Worth: "},{bold:0b,color:"#00FF00",italic:0b,obfuscated:0b,strikethrough:0b,text:"$30",underlined:0b}],text:""}]},count:6,id:"minecraft:cooked_beef"}
+
+Lore:
+Line 0: &7Worth: <color:#00FF00>$30
+
