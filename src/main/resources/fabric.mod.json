@@ -4,14 +4,14 @@
   "version": "${version}",
   "name": "DonutsAuctions",
   "description": "Passive auction tracker for DonutSMP with local SQLite storage and best-deal scouting.",
-  "icon":  "assets/donutsauctions/AuctionMaster-Icon.png",
+  "icon":  "assets/donutsauctions/AutionMaster-Icon.jpeg",
   "authors": [
     "cancelcloud"
   ],
   "contact": {
     "homepage": "https://github.com/cancel-cloud/Donuts-Auctions",
     "issues": "https://github.com/cancel-cloud/Donuts-Auctions/issues",
-    "sources": "https://github.com/cancel-cloud/Donuts-Auctions",
+    "sources": "https://github.com/cancel-cloud/Donuts-Auctions"
 
   },
   "license": "MIT",

@@ -1,5 +1,6 @@
 import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 import org.gradle.jvm.tasks.Jar
+import org.gradle.api.tasks.bundling.Zip
 
 plugins {
     id("fabric-loom") version "1.15.3"
@@ -20,6 +21,9 @@ repositories {
     mavenCentral()
 }
 
+val sqliteJdbcVersion = project.property("sqlite_jdbc_version") as String
+val sqliteJdbcDependency = "org.xerial:sqlite-jdbc:$sqliteJdbcVersion"
+
 dependencies {
     minecraft("com.mojang:minecraft:${project.property("minecraft_version")}")
     mappings("net.fabricmc:yarn:${project.property("yarn_mappings")}:v2")
@@ -32,8 +36,8 @@ dependencies {
         exclude(group = "net.fabricmc.fabric-api")
     }
 
-    implementation("org.xerial:sqlite-jdbc:${project.property("sqlite_jdbc_version")}")
-    include("org.xerial:sqlite-jdbc:${project.property("sqlite_jdbc_version")}")
+    implementation(sqliteJdbcDependency)
+    include(sqliteJdbcDependency)
 
     testImplementation(kotlin("test"))
     testImplementation("org.junit.jupiter:junit-jupiter:5.12.2")
@@ -75,6 +79,45 @@ tasks.processResources {
 
 tasks.test {
     useJUnitPlatform()
+}
+
+val slimBundledSqliteJar by tasks.registering(Zip::class) {
+    group = "build"
+    description = "Strips rarely used sqlite-jdbc native targets from the nested jar."
+
+    dependsOn(tasks.named("processIncludeJars"))
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+    isPreserveFileTimestamps = false
+    isReproducibleFileOrder = true
+
+    val bundledSqliteJar = layout.buildDirectory.file("processIncludeJars/sqlite-jdbc-$sqliteJdbcVersion.jar")
+    val keptNativeTargets = listOf(
+        "org/sqlite/native/Windows/x86_64/**",
+        "org/sqlite/native/Mac/x86_64/**",
+        "org/sqlite/native/Mac/aarch64/**",
+        "org/sqlite/native/Linux/x86_64/**",
+        "org/sqlite/native/Linux/aarch64/**"
+    )
+
+    from(bundledSqliteJar.map { zipTree(it) }) {
+        exclude("org/sqlite/native/**")
+    }
+    from(bundledSqliteJar.map { zipTree(it) }) {
+        include(keptNativeTargets)
+    }
+
+    destinationDirectory.set(layout.buildDirectory.dir("tmp"))
+    archiveFileName.set("sqlite-jdbc-$sqliteJdbcVersion-slimmed.jar")
+
+    doLast {
+        val source = archiveFile.get().asFile
+        val target = bundledSqliteJar.get().asFile
+        source.copyTo(target, overwrite = true)
+    }
+}
+
+tasks.named("jar") {
+    dependsOn(slimBundledSqliteJar)
 }
 
 val prismLauncherModsDir = file("/Users/cancelcloud/Library/Application Support/PrismLauncher/instances/FO-1-21-10/minecraft/mods/")

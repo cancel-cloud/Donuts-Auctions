@@ -20,17 +20,22 @@
   - `fabric-language-kotlin >= 1.13.9+kotlin.2.3.10`
   - `modmenu >= 12.0.0`
   - `cloth-config2 >= 17.0.0`
+- Bundled SQLite native targets in the shipped jar: Windows `x86_64`, Linux `x86_64`/`aarch64`, macOS `x86_64`/`aarch64`.
 
 ## Build / Run
 - Run tests:
 ```bash
 ./gradlew test --no-daemon
 ```
-- Build remapped jar:
+- Standard build (for everyone):
+```bash
+./gradlew build --no-daemon
+```
+- Build remapped jar only:
 ```bash
 ./gradlew remapJar --no-daemon
 ```
-- Build and copy directly to your local Prism instance mods folder:
+- Local-only convenience task (uses a hardcoded PrismLauncher path in this repo):
 ```bash
 ./gradlew runlocal --no-daemon
 ```
